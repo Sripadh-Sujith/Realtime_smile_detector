@@ -13,7 +13,7 @@ This project is a real-time smile detection system using Python and OpenCV. It d
 1. Clone this repository:
    ```bash
    git clone https://github.com/Sripadh-Sujith/Realtime_smile_detector.git
-   cd realtime-smile-detector
+   cd Realtime_smile_detector
 
 ## Follow me on dev
 https://dev.to/sripadh_sujith_1487e8db18
